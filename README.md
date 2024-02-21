@@ -80,24 +80,9 @@ Tutor Kourt helped troubleshoot the API for loop, and also located the documenta
 
 ## Result
 
-	City	Country	Lat	Lng	Humidity	Hotel Name
-40	nafada	NG	11.0956	11.3327	17	No hotel found
-116	cabo san lucas	MX	22.8909	-109.9124	29	Comfort Rooms
-185	mount gambier	AU	-37.8333	140.7667	49	The Old Mount Gambier Gaol
-202	zapala	AR	-38.8992	-70.0544	25	Apart Solar de Piedra
-244	wynyard	AU	-41	145.7167	46	Wynyard Hotel
-281	tomatlan	MX	19.9333	-105.25	41	Hotel Hacienda Vieja Tomatlan
-292	wawa	NG	9.9022	4.4192	17	No hotel found
-295	farafenni	GM	13.5667	-15.6	34	No hotel found
-321	boa vista	BR	2.8197	-60.6733	45	Aipana Plaza Hotel
-329	bullhead city	US	35.1478	-114.5683	25	Laughlin River Lodge
-392	whangarei	NZ	-35.7317	174.3239	41	Grand Hotel
-396	ciudad bolivar	VE	8.1222	-63.5497	31	Paoca
-436	san juan	AR	-31.5375	-68.5364	35	Hotel San Francisco
-447	lethem	GY	3.3803	-59.7968	47	Hotel Amazonas
-538	villa angela	AR	-27.5738	-60.7153	48	El Refugio Hotel & Suites
-545	timbuktu	ML	16.7735	-3.0074	11	Hotel La Maison
+Not all selected cities returned a hotel.
 
 ## Summary
-Conclusions of analysis and final words.
+
+In order to plan a vacation to any of the cities with matching weather conditions, you would need to either exclude the locations that did not return a hotel, or make alternative lodging arrangments, potentially far from you destination. 
 
